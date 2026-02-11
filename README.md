@@ -24,7 +24,6 @@
 ---
 *Created with ❤️ for Li Auto community*
 
-
 <a href="https://www.star-history.com/#SVG62/LiAuto_Network_Scanner&type=date&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SVG62/LiAuto_Network_Scanner&type=date&theme=dark&legend=bottom-right" />
